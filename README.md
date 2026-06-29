@@ -2,7 +2,7 @@
 
 A machine learning project for predicting airplane ticket prices using advanced regression models.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -14,7 +14,7 @@ A machine learning project for predicting airplane ticket prices using advanced 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 This project implements machine learning models to predict airplane ticket prices based on historical data and various features. By leveraging ensemble learning techniques, we achieve highly accurate price predictions with minimal error margins.
 
@@ -26,7 +26,7 @@ This project implements machine learning models to predict airplane ticket price
 - **Data Visualization**: Density plots for model performance analysis
 - **Robust Ensemble Learning**: Handles complex datasets effectively
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 plane_price_prediction/
@@ -35,7 +35,7 @@ plane_price_prediction/
 └── data/                # Dataset files (if applicable)
 ```
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -69,7 +69,7 @@ The notebook includes:
 - Performance evaluation
 - Visualization of results
 
-## 🤖 Models
+## Models
 
 ### Random Forest
 - Ensemble learning method using multiple decision trees
@@ -83,7 +83,7 @@ The notebook includes:
 - Handles complex datasets efficiently
 - Optimized gradient boosting framework
 
-## 📊 Results
+## Results
 
 | Metric | Value |
 |--------|-------|
@@ -97,14 +97,14 @@ The notebook includes:
 - Density plots show good alignment between predicted and actual values
 - Models are suitable for production deployment
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report issues
 - Suggest improvements
 - Submit pull requests
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
